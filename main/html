@@ -23,14 +23,14 @@
   </header>
   <section class="Home">
     <header>
-      <h1>Dan Volosnikov</h1>
+      <h1>Marc Byndas</h1>
       <h3>Full-Stack Web Developer</h3>
       <ul>
-        <li class="--arrow-up"><a href="https://www.facebook.com/dan.volosnikov" target="_blank"><i class="fa fa-facebook fa-lg --padding-top-sf"></i></a></li>
-        <li class="--arrow-down"><a href="https://github.com/lightofdavinci" target="_blank"><i class="fa fa-github fa-lg --padding-bottom-sf"></i></a></li>
-        <li class="--arrow-up"><a href="https://codepen.io/Volosnikov/" target="_blank"><i class="fa fa-codepen fa-lg --padding-top-sf"></i></a></li>
+        <li class="--arrow-up"><a href="https://www.facebook.com/marc.byndas" target="_blank"><i class="fa fa-facebook fa-lg --padding-top-sf"></i></a></li>
+        <li class="--arrow-down"><a href="https://github.com/lemokh" target="_blank"><i class="fa fa-github fa-lg --padding-bottom-sf"></i></a></li>
+        <li class="--arrow-up"><a href="https://codepen.io/byndasma/" target="_blank"><i class="fa fa-codepen fa-lg --padding-top-sf"></i></a></li>
         <li class="--arrow-down"><a href="#" target="_blank"><i class="fa fa-google-plus fa-lg --padding-bottom-sf"></i></a></li>
-        <li class="--arrow-up"><a href="https://vk.com/danymccoyvolosnikov" target="_blank"><i class="fa fa-vk a-lg --padding-top-sf"></i></a></li>
+        <li class="--arrow-up"><a href="https://vk.com/" target="_blank"><i class="fa fa-vk a-lg --padding-top-sf"></i></a></li>
       </ul>
     </header>
   </section>
