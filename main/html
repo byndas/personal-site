@@ -36,7 +36,7 @@
   </section>
   <section id="about" class="About">
     <h3>Let's create amazing things together</h3>
-    <p class="About-paragraph">I'm a junior Full Stack Developer, this page is a simple personal Porfolio project challenge for lambdaschool.com school that decided to join to recap and wrapup my mind on the skills I've learned.</p>
+    <p class="About-paragraph">I'm a junior Full Stack Developer.</p>
     <h3>My Skills</h3>
     <div class="About-logo-collection">
       <div>
