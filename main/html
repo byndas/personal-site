@@ -19,13 +19,13 @@
 
   <div class="tagline">
     <h3>Who I am</h3>
-    <p>Hi, my name is Morgan and I love to write code that is efficient.</p>
+    <p>Hi, my name is Marc and I love to write efficient code.</p>
   </div>
 
 
   <div class="skills">
     <h3>What I do</h3>
-    <p>Here are some of the languages I use on a day-to-day.</p>
+    <p>Here are some languages I daily use.</p>
     <ul>
       <li>HTML</li>
       <li>CSS</li>
@@ -35,7 +35,7 @@
 
   <div class="contact">
     <h3>Get in touch</h3>
-    <p>I live in the cloud and can't be seen. Send messages to the good people at <a target="_blank" href="https://twitter.com/codeschool">Code School</a> and they'll notify me.</p>
+    <p>byndasma@gmail.com.</p>
   </div>
   <!--
     Previous project placeholder ends
